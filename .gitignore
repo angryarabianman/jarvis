@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.idea/
+.venv/
+chat_log_*.json
+*.egg-info/
+uv.lock
