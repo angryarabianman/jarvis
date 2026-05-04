@@ -1,5 +1,7 @@
 # Jarvis
 
+You can find screen recordings in the repository.
+
 AI voice assistant powered by [Nebius AI Studio](https://studio.nebius.com/).
 
 ## Implemented Features
